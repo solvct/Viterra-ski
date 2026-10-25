@@ -1,0 +1,14 @@
+{
+  "source": "https://sincere-help-192130.framer.app",
+  "runtimeSource": "https://framerusercontent.com/sites/1ATAfR1ETzPeyYaZHUCOmT/",
+  "routes": [
+    "/",
+    "/limiteds",
+    "/coming-soon",
+    "/boards",
+    "/test",
+    "/404"
+  ],
+  "runtimeModules": 24,
+  "assets": "Original images and fonts retain their Framer CDN URLs."
+}

@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Bi-D_2cA.mjs";function t(e,t){return{description:`Made with Framer`,robots:`max-image-preview:large`,title:`VITERRA `}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.Cwc0WNSU.mjs.map
