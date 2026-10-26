@@ -1,4 +1,9 @@
 /* Local additions to the original site. */
+#__framer-badge-container,
+.__framer-badge {
+  display: none !important;
+}
+
 .release-notice {
   position: absolute;
   z-index: 3;
