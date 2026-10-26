@@ -43,7 +43,7 @@ def main():
         destination.write_text(page)
 
     shutil.copytree(ROOT / "reference-runtime", output / "reference-runtime")
-    for name in ("site-overrides.css", "site-overrides.js"):
+    for name in ("site-overrides.css", "site-overrides.js", "favicon.svg", "apple-touch-icon.png"):
         shutil.copy2(ROOT / name, output / name)
     shutil.copy2(output / "404" / "index.html", output / "404.html")
 
